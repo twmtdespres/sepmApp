@@ -1,0 +1,7 @@
+{
+  "sepm$metadata": {
+    "directoryName": "sepmra-prod-man-service",
+    "servicePath": "/sap/opu/odata/sap/SEPMRA_PROD_MAN",
+    "npmPackageName": "sepmra-prod-man-service"
+  }
+}
